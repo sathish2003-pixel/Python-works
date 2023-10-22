@@ -1,4 +1,3 @@
-a=input("Enter the name")
-for a in range(0,10):
+a=str(input("Enter the name"))
+for i in range(10):
      print(a)
-     
