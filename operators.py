@@ -15,14 +15,15 @@ sub=a-b
 mul=a*b
 div=a/b
 mod=a%b
-floordiv=a//b
+integerdiv=a//b
 expo=a**b
-print(add)
-print(sub)
-print(mul)
-print(div)
-print(mod)
-print(floordiv)
-print(expo)
+print("Addition:",add)
+print("Subtraction:",sub)
+print("Multiplication:",mul)
+print("divison:",div)
+print("modulus:",mod)
+print("Integer divison:",integerdiv)
+print("Exponentation:",expo)
+print("hai")
 
 
